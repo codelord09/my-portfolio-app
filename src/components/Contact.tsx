@@ -14,7 +14,7 @@ const Contact = () => {
         <section id="contact" className="bg-white-100 py-10">
             <div className="container mx-auto text-center">
                 <h2 className="text-3xl font-semibold mb-6">Contact Me</h2>
-                <p className="text-lg text-gray-700 mb-8">
+                <p className="text-lg text-black-700 mb-8">
                     If you would like to get in touch with me for any inquiries, job opportunities, or collaborations, please feel free to reach out using the following methods:
                 </p>
 
@@ -55,7 +55,7 @@ const Contact = () => {
                     </div>
                 </div>
 
-                <p className="text-lg text-gray-700 mt-8">
+                <p className="text-lg text-black-700 mt-8">
                     Feel free to connect with me on social media, drop me an email, or check out my coding profiles. I&apos;m always open to new opportunities and discussions!
                 </p>
             </div>
