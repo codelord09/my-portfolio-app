@@ -29,15 +29,13 @@ const Intro: React.FC = () => {
                     dangerouslySetInnerHTML={{ __html: userInfo.heading }}
                 />
                 <ScrollLink
-  to={headerItems.projects.page}
-  className={'bg-teal-600 rounded text-neutral-100 flex w-28 h-10 m-auto items-center justify-center md:m-0'}
-  spy={true}
-  smooth={true}
-  style={{ zIndex: 999 }} // Set a high z-index
->
-  Projects <FaChevronDown className={'ml-2'} />
-</ScrollLink>
-
+                    to={headerItems.projects.page}
+                    className={'bg-teal-600 rounded text-white flex w-28 h-10 m-auto items-center justify-center md:m-0'}
+                    spy={true}
+                    smooth={true}
+                >
+                    Projects <FaChevronDown className={'ml-2'} />
+                </ScrollLink>
             </div>
         </section>
     )
