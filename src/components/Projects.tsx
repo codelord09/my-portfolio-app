@@ -1,3 +1,4 @@
+'use client'
 import React from "react";
 import { headerItems, projects } from "@/constants/constant"; // Import headerItems from your constant file
 import Image from "next/image";
@@ -26,7 +27,7 @@ const Projects: React.FC = () => {
                             <p>{projectData.description}</p>
                             <div className="mt-2">
                                 <a href={projectData.liveLink} target="_blank" rel="noopener noreferrer">
-                                    Live Demo
+                                    Live Link
                                 </a>{" "}
                                 |{" "}
                                 <a href={projectData.githubLink} target="_blank" rel="noopener noreferrer">
