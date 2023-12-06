@@ -55,19 +55,20 @@ export const projects = {
         githubLink: "https://codesandbox.io/p/github/codelord09/Quiz-React-App",
     },
     project5: {
-        title: "NodeSphere-Social-Backend",
-        image: "https://i.ibb.co/MVrZdR0/Screenshot-344.png",
-        description: "NodeJS, MongoDB, ExpressJS, JWT, Javascript, RESTful APIs",
-        liveLink: "https://github.com/codelord09/Neeraj-Gupta-NodeJs-Backend-Project",
-        githubLink: "https://github.com/codelord09/Neeraj-Gupta-NodeJs-Backend-Project",
-    },
-    project6: {
         title: "Frontend-SQL-Editor-App",
         image: "https://i.ibb.co/cCnY8D0/Screenshot-346.png",
         description: "ReactJS, Tailwind CSS, React Codemirror",
         liveLink: "https://atlan-frontend-sql-app.vercel.app/",
         githubLink: "https://github.com/codelord09/Atlan-frontend-SQL-App",
+    },
+    project6: {
+        title: "NodeSphere-Social-Backend",
+        image: "https://i.ibb.co/MVrZdR0/Screenshot-344.png",
+        description: "NodeJS, MongoDB, ExpressJS, JWT, RESTful APIs",
+        liveLink: "https://github.com/codelord09/Neeraj-Gupta-NodeJs-Backend-Project",
+        githubLink: "https://github.com/codelord09/Neeraj-Gupta-NodeJs-Backend-Project",
     }
+    
 };
 
 
