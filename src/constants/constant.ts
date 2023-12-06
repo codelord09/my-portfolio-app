@@ -54,6 +54,20 @@ export const projects = {
         liveLink: "https://codesandbox.io/p/github/codelord09/Quiz-React-App",
         githubLink: "https://codesandbox.io/p/github/codelord09/Quiz-React-App",
     },
+    project5: {
+        title: "NodeSphere-Social-Backend",
+        image: "https://i.ibb.co/MVrZdR0/Screenshot-344.png",
+        description: "NodeJS, MongoDB, ExpressJS, JWT, Javascript, RESTful APIs",
+        liveLink: "https://github.com/codelord09/Neeraj-Gupta-NodeJs-Backend-Project",
+        githubLink: "https://github.com/codelord09/Neeraj-Gupta-NodeJs-Backend-Project",
+    },
+    project6: {
+        title: "Frontend-SQL-Editor-App",
+        image: "https://i.ibb.co/cCnY8D0/Screenshot-346.png",
+        description: "ReactJS, Tailwind CSS, React Codemirror",
+        liveLink: "https://atlan-frontend-sql-app.vercel.app/",
+        githubLink: "https://github.com/codelord09/Atlan-frontend-SQL-App",
+    }
 };
 
 
@@ -62,3 +76,5 @@ export const projects = {
 // <img src="https://i.ibb.co/NLtLM3K/IMG-20201226-004827-280.jpg" alt="IMG-20201226-004827-280" border="0">
 // <img src="https://i.ibb.co/4tRB1Gs/IMG-20221212-215802-958.webp" alt="IMG-20221212-215802-958" border="0">
 // <img src="https://i.ibb.co/QKftQNN/IMG-20221212-215802-704.webp" alt="IMG-20221212-215802-704" border="0">
+// <img src="https://i.ibb.co/MVrZdR0/Screenshot-344.png" alt="Screenshot-344" border="0">
+// <img src="https://i.ibb.co/cCnY8D0/Screenshot-346.png" alt="Screenshot-346" border="0">
