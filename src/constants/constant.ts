@@ -5,7 +5,7 @@ import { UserObject } from "@/models/User";
 export const userInfo: UserObject = {
     // picture : 'https://avatarfiles.alphacoders.com/896/89615.png'
     name: 'Neeraj Gupta',
-    picture1: 'https://i.ibb.co/VDgGKb9/IMG20230319135926-01.jpg',
+    picture1: 'https://ibb.co/tLn7yX1',
     picture2: 'https://i.ibb.co/4tRB1Gs/IMG-20221212-215802-958.webp',
     heading: 'I&#39;m  an undergraduate student currently pursuing a Bachelor of Technology (B.Tech) at the <strong style="color: #FF5733">Indian Institute of Information Technology, Allahabad</strong>, with a strong passion for designing elegant and efficient solutions that seamlessly integrate user-friendly experiences. I&#39;ve developed websites, gained expertise in full-stack web development using cutting-edge technologies to drive innovation, and actively engaged in competitive coding on various platforms.',
     about: `
